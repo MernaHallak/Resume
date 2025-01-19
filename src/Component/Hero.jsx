@@ -25,7 +25,7 @@ const Hero = ({ isDarkMode }) => {
               <h1 className=" leading-tight text-4xl mb-4">
                 HEY!
                 <span className=" font-bold">
-                  I’m Laura, Frontend Developer
+                  I’m Laura, backend Developer
                 </span>
               </h1>
               <p className="text-[#43495B] text-lg mb-4">
